@@ -1,4 +1,4 @@
-# How to customize the tooltip using DataTemplate in WinUI DataGrid
+# How to Customize the Tooltip using DataTemplate in WinUI DataGrid?
 
 This repository explains how to customize the tooltip using DataTemplate in [WinUI DataGrid](https://www.syncfusion.com/winui-controls/datagrid) (SfDataGrid).
 
@@ -38,4 +38,4 @@ public class StringToImageConverter : IValueConverter
 }
 ```
 
-![customize the tooltip](customize_the_tooltip.png)
+![Customize the tooltip using DataTemplate](CustomizeTheToolTip.png)
